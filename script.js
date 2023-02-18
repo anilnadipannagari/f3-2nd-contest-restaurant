@@ -52,7 +52,7 @@ return apidata.json();
       `
     //  cr.style.display="flex";
      ///cr.style.flexDirection="row";
-      cr.style.height="350px";
+      cr.style.height="370px";
       cr.style.width="200px";
       cr.style.borderStyle="solid";
     //cr.style.boxSizing="border-box";
